@@ -1,0 +1,952 @@
+[
+  {
+    "country": "Q124153644",
+    "capital": "",
+    "cca3": ""
+  },
+  {
+    "country": "Q16112782",
+    "capital": "",
+    "cca3": ""
+  },
+  {
+    "country": "Австралия",
+    "capital": "Канберра",
+    "cca3": "AUS"
+  },
+  {
+    "country": "Австрия",
+    "capital": "Вена",
+    "cca3": "AUT"
+  },
+  {
+    "country": "Азербайджан",
+    "capital": "Баку",
+    "cca3": "AZE"
+  },
+  {
+    "country": "Албания",
+    "capital": "Тирана",
+    "cca3": "ALB"
+  },
+  {
+    "country": "Алжир",
+    "capital": "Алжир",
+    "cca3": "DZA"
+  },
+  {
+    "country": "Ангола",
+    "capital": "Луанда",
+    "cca3": "AGO"
+  },
+  {
+    "country": "Андорра",
+    "capital": "Андорра-ла-Велья",
+    "cca3": "AND"
+  },
+  {
+    "country": "Антигуа и Барбуда",
+    "capital": "Сент-Джонс",
+    "cca3": "ATG"
+  },
+  {
+    "country": "Аргентина",
+    "capital": "Буэнос-Айрес",
+    "cca3": "ARG"
+  },
+  {
+    "country": "Армения",
+    "capital": "Ереван",
+    "cca3": "ARM"
+  },
+  {
+    "country": "Аруба",
+    "capital": "Ораньестад",
+    "cca3": "ABW"
+  },
+  {
+    "country": "Афганистан",
+    "capital": "Кабул",
+    "cca3": "AFG"
+  },
+  {
+    "country": "Багамские Острова",
+    "capital": "Нассау",
+    "cca3": "BHS"
+  },
+  {
+    "country": "Бангладеш",
+    "capital": "Дакка",
+    "cca3": "BGD"
+  },
+  {
+    "country": "Бахрейн",
+    "capital": "Манама",
+    "cca3": "BHR"
+  },
+  {
+    "country": "Беларусь",
+    "capital": "Минск",
+    "cca3": "BLR"
+  },
+  {
+    "country": "Бельгия",
+    "capital": "Брюссель",
+    "cca3": "BEL"
+  },
+  {
+    "country": "Бенин",
+    "capital": "Порто-Ново",
+    "cca3": "BEN"
+  },
+  {
+    "country": "Болгария",
+    "capital": "София",
+    "cca3": "BGR"
+  },
+  {
+    "country": "Боливия",
+    "capital": "Ла-Пас",
+    "cca3": "BOL"
+  },
+  {
+    "country": "Боливия",
+    "capital": "Сукре",
+    "cca3": "BOL"
+  },
+  {
+    "country": "Босния и Герцеговина",
+    "capital": "Сараево",
+    "cca3": "BIH"
+  },
+  {
+    "country": "Ботсвана",
+    "capital": "Габороне",
+    "cca3": "BWA"
+  },
+  {
+    "country": "Бразилия",
+    "capital": "Бразилиа",
+    "cca3": "BRA"
+  },
+  {
+    "country": "Бруней",
+    "capital": "Бандар-Сери-Бегаван",
+    "cca3": "BRN"
+  },
+  {
+    "country": "Буркина-Фасо",
+    "capital": "Уагадугу",
+    "cca3": "BFA"
+  },
+  {
+    "country": "Бурунди",
+    "capital": "Гитега",
+    "cca3": "BDI"
+  },
+  {
+    "country": "Бутан",
+    "capital": "Тхимпху",
+    "cca3": "BTN"
+  },
+  {
+    "country": "Вануату",
+    "capital": "Порт-Вила",
+    "cca3": "VUT"
+  },
+  {
+    "country": "Ватикан",
+    "capital": "",
+    "cca3": "VAT"
+  },
+  {
+    "country": "Великобритания",
+    "capital": "Лондон",
+    "cca3": "GBR"
+  },
+  {
+    "country": "Венгрия",
+    "capital": "Будапешт",
+    "cca3": "HUN"
+  },
+  {
+    "country": "Венесуэла",
+    "capital": "Каракас",
+    "cca3": "VEN"
+  },
+  {
+    "country": "Восточный Тимор",
+    "capital": "Дили",
+    "cca3": "TLS"
+  },
+  {
+    "country": "Вьетнам",
+    "capital": "Ханой",
+    "cca3": "VNM"
+  },
+  {
+    "country": "Габон",
+    "capital": "Либревиль",
+    "cca3": "GAB"
+  },
+  {
+    "country": "Гайана",
+    "capital": "Джорджтаун",
+    "cca3": "GUY"
+  },
+  {
+    "country": "Гамбия",
+    "capital": "Банжул",
+    "cca3": "GMB"
+  },
+  {
+    "country": "Гана",
+    "capital": "Аккра",
+    "cca3": "GHA"
+  },
+  {
+    "country": "Гватемала",
+    "capital": "Гватемала",
+    "cca3": "GTM"
+  },
+  {
+    "country": "Гвинея",
+    "capital": "Конакри",
+    "cca3": "GIN"
+  },
+  {
+    "country": "Германия",
+    "capital": "Берлин",
+    "cca3": "DEU"
+  },
+  {
+    "country": "Гондурас",
+    "capital": "Тегусигальпа",
+    "cca3": "HND"
+  },
+  {
+    "country": "Государство Палестина",
+    "capital": "Иерусалим",
+    "cca3": "PSE"
+  },
+  {
+    "country": "Государство Палестина",
+    "capital": "Рамалла",
+    "cca3": "PSE"
+  },
+  {
+    "country": "Гренада",
+    "capital": "Сент-Джорджес",
+    "cca3": "GRD"
+  },
+  {
+    "country": "Греция",
+    "capital": "Афины",
+    "cca3": "GRC"
+  },
+  {
+    "country": "Дания",
+    "capital": "Копенгаген",
+    "cca3": "DNK"
+  },
+  {
+    "country": "Датское королевство",
+    "capital": "Копенгаген",
+    "cca3": ""
+  },
+  {
+    "country": "Демократическая Республика Конго",
+    "capital": "Киншаса",
+    "cca3": "COD"
+  },
+  {
+    "country": "Джибути",
+    "capital": "Джибути",
+    "cca3": "DJI"
+  },
+  {
+    "country": "Доминика",
+    "capital": "Розо",
+    "cca3": "DMA"
+  },
+  {
+    "country": "Доминиканская Республика",
+    "capital": "Санто-Доминго",
+    "cca3": "DOM"
+  },
+  {
+    "country": "Египет",
+    "capital": "Каир",
+    "cca3": "EGY"
+  },
+  {
+    "country": "Замбия",
+    "capital": "Лусака",
+    "cca3": "ZMB"
+  },
+  {
+    "country": "Зимбабве",
+    "capital": "Хараре",
+    "cca3": "ZWE"
+  },
+  {
+    "country": "Израиль",
+    "capital": "Иерусалим",
+    "cca3": "ISR"
+  },
+  {
+    "country": "Индия",
+    "capital": "Нью-Дели",
+    "cca3": "IND"
+  },
+  {
+    "country": "Индонезия",
+    "capital": "Джакарта",
+    "cca3": "IDN"
+  },
+  {
+    "country": "Иордания",
+    "capital": "Амман",
+    "cca3": "JOR"
+  },
+  {
+    "country": "Ирак",
+    "capital": "Багдад",
+    "cca3": "IRQ"
+  },
+  {
+    "country": "Иран",
+    "capital": "Тегеран",
+    "cca3": "IRN"
+  },
+  {
+    "country": "Ирландия",
+    "capital": "Дублин",
+    "cca3": "IRL"
+  },
+  {
+    "country": "Исландия",
+    "capital": "Рейкьявик",
+    "cca3": "ISL"
+  },
+  {
+    "country": "Испания",
+    "capital": "Мадрид",
+    "cca3": "ESP"
+  },
+  {
+    "country": "Италия",
+    "capital": "Рим",
+    "cca3": "ITA"
+  },
+  {
+    "country": "Йемен",
+    "capital": "Сана",
+    "cca3": "YEM"
+  },
+  {
+    "country": "Йемен",
+    "capital": "Аден",
+    "cca3": "YEM"
+  },
+  {
+    "country": "КНДР",
+    "capital": "Пхеньян",
+    "cca3": "PRK"
+  },
+  {
+    "country": "Кабо-Верде",
+    "capital": "Прая",
+    "cca3": "CPV"
+  },
+  {
+    "country": "Казахстан",
+    "capital": "Астана",
+    "cca3": "KAZ"
+  },
+  {
+    "country": "Камбоджа",
+    "capital": "Пномпень",
+    "cca3": "KHM"
+  },
+  {
+    "country": "Камерун",
+    "capital": "Яунде",
+    "cca3": "CMR"
+  },
+  {
+    "country": "Канада",
+    "capital": "Оттава",
+    "cca3": "CAN"
+  },
+  {
+    "country": "Катар",
+    "capital": "Доха",
+    "cca3": "QAT"
+  },
+  {
+    "country": "Кения",
+    "capital": "Найроби",
+    "cca3": "KEN"
+  },
+  {
+    "country": "Кипр",
+    "capital": "Никосия",
+    "cca3": "CYP"
+  },
+  {
+    "country": "Китай",
+    "capital": "Пекин",
+    "cca3": "CHN"
+  },
+  {
+    "country": "Китайская Республика (Тайвань)",
+    "capital": "Тайбэй",
+    "cca3": "TWN"
+  },
+  {
+    "country": "Колумбия",
+    "capital": "Богота",
+    "cca3": "COL"
+  },
+  {
+    "country": "Коморы",
+    "capital": "Морони",
+    "cca3": "COM"
+  },
+  {
+    "country": "Королевство Нидерландов",
+    "capital": "Амстердам",
+    "cca3": "NLD"
+  },
+  {
+    "country": "Коста-Рика",
+    "capital": "Сан-Хосе",
+    "cca3": "CRI"
+  },
+  {
+    "country": "Кот-д’Ивуар",
+    "capital": "Ямусукро",
+    "cca3": "CIV"
+  },
+  {
+    "country": "Куба",
+    "capital": "Гавана",
+    "cca3": "CUB"
+  },
+  {
+    "country": "Кыргызстан",
+    "capital": "Бишкек",
+    "cca3": "KGZ"
+  },
+  {
+    "country": "Лаос",
+    "capital": "Вьентьян",
+    "cca3": "LAO"
+  },
+  {
+    "country": "Латвия",
+    "capital": "Рига",
+    "cca3": "LVA"
+  },
+  {
+    "country": "Лесото",
+    "capital": "Масеру",
+    "cca3": "LSO"
+  },
+  {
+    "country": "Либерия",
+    "capital": "Монровия",
+    "cca3": "LBR"
+  },
+  {
+    "country": "Ливан",
+    "capital": "Бейрут",
+    "cca3": "LBN"
+  },
+  {
+    "country": "Ливия",
+    "capital": "Триполи",
+    "cca3": "LBY"
+  },
+  {
+    "country": "Литва",
+    "capital": "Вильнюс",
+    "cca3": "LTU"
+  },
+  {
+    "country": "Лихтенштейн",
+    "capital": "Вадуц",
+    "cca3": "LIE"
+  },
+  {
+    "country": "Люксембург",
+    "capital": "Люксембург",
+    "cca3": "LUX"
+  },
+  {
+    "country": "Маврикий",
+    "capital": "Порт-Луи",
+    "cca3": "MUS"
+  },
+  {
+    "country": "Мавритания",
+    "capital": "Нуакшот",
+    "cca3": "MRT"
+  },
+  {
+    "country": "Малави",
+    "capital": "Лилонгве",
+    "cca3": "MWI"
+  },
+  {
+    "country": "Малайзия",
+    "capital": "Куала-Лумпур",
+    "cca3": "MYS"
+  },
+  {
+    "country": "Мали",
+    "capital": "Бамако",
+    "cca3": "MLI"
+  },
+  {
+    "country": "Мальдивы",
+    "capital": "Мале",
+    "cca3": "MDV"
+  },
+  {
+    "country": "Мальта",
+    "capital": "Валлетта",
+    "cca3": "MLT"
+  },
+  {
+    "country": "Марокко",
+    "capital": "Рабат",
+    "cca3": "MAR"
+  },
+  {
+    "country": "Мексика",
+    "capital": "Мехико",
+    "cca3": "MEX"
+  },
+  {
+    "country": "Монголия",
+    "capital": "Улан-Батор",
+    "cca3": "MNG"
+  },
+  {
+    "country": "Мьянма",
+    "capital": "Нейпьидо",
+    "cca3": "MMR"
+  },
+  {
+    "country": "Намибия",
+    "capital": "Виндхук",
+    "cca3": "NAM"
+  },
+  {
+    "country": "Науру",
+    "capital": "Ярен",
+    "cca3": "NRU"
+  },
+  {
+    "country": "Непал",
+    "capital": "Катманду",
+    "cca3": "NPL"
+  },
+  {
+    "country": "Нигер",
+    "capital": "Ниамей",
+    "cca3": "NER"
+  },
+  {
+    "country": "Нигерия",
+    "capital": "Абуджа",
+    "cca3": "NGA"
+  },
+  {
+    "country": "Нидерланды",
+    "capital": "Амстердам",
+    "cca3": ""
+  },
+  {
+    "country": "Никарагуа",
+    "capital": "Манагуа",
+    "cca3": "NIC"
+  },
+  {
+    "country": "Ниуэ",
+    "capital": "Алофи",
+    "cca3": "NIU"
+  },
+  {
+    "country": "Новая Зеландия",
+    "capital": "Веллингтон",
+    "cca3": "NZL"
+  },
+  {
+    "country": "Норвегия",
+    "capital": "Осло",
+    "cca3": "NOR"
+  },
+  {
+    "country": "Объединённые Арабские Эмираты",
+    "capital": "Абу-Даби",
+    "cca3": "ARE"
+  },
+  {
+    "country": "Оман",
+    "capital": "Маскат",
+    "cca3": "OMN"
+  },
+  {
+    "country": "Острова Кука",
+    "capital": "Аваруа",
+    "cca3": "COK"
+  },
+  {
+    "country": "Пакистан",
+    "capital": "Исламабад",
+    "cca3": "PAK"
+  },
+  {
+    "country": "Палау",
+    "capital": "Нгерулмуд",
+    "cca3": "PLW"
+  },
+  {
+    "country": "Папуа — Новая Гвинея",
+    "capital": "Порт-Морсби",
+    "cca3": "PNG"
+  },
+  {
+    "country": "Парагвай",
+    "capital": "Асунсьон",
+    "cca3": "PRY"
+  },
+  {
+    "country": "Польша",
+    "capital": "Варшава",
+    "cca3": "POL"
+  },
+  {
+    "country": "Португалия",
+    "capital": "Лиссабон",
+    "cca3": "PRT"
+  },
+  {
+    "country": "Республика Конго",
+    "capital": "Браззавиль",
+    "cca3": "COG"
+  },
+  {
+    "country": "Республика Корея",
+    "capital": "Сеул",
+    "cca3": "KOR"
+  },
+  {
+    "country": "Республика Косово",
+    "capital": "Приштина",
+    "cca3": ""
+  },
+  {
+    "country": "Россия",
+    "capital": "Москва",
+    "cca3": "RUS"
+  },
+  {
+    "country": "Руанда",
+    "capital": "Кигали",
+    "cca3": "RWA"
+  },
+  {
+    "country": "Румыния",
+    "capital": "Бухарест",
+    "cca3": "ROU"
+  },
+  {
+    "country": "США",
+    "capital": "Вашингтон",
+    "cca3": "USA"
+  },
+  {
+    "country": "Сальвадор",
+    "capital": "Сан-Сальвадор",
+    "cca3": "SLV"
+  },
+  {
+    "country": "Самоа",
+    "capital": "Апиа",
+    "cca3": "WSM"
+  },
+  {
+    "country": "Сан-Томе и Принсипи",
+    "capital": "Сан-Томе",
+    "cca3": "STP"
+  },
+  {
+    "country": "Саудовская Аравия",
+    "capital": "Эр-Рияд",
+    "cca3": "SAU"
+  },
+  {
+    "country": "Северная Македония",
+    "capital": "Скопье",
+    "cca3": "MKD"
+  },
+  {
+    "country": "Сейшельские Острова",
+    "capital": "Виктория",
+    "cca3": "SYC"
+  },
+  {
+    "country": "Сенегал",
+    "capital": "Дакар",
+    "cca3": "SEN"
+  },
+  {
+    "country": "Сент-Винсент и Гренадины",
+    "capital": "Кингстаун",
+    "cca3": "VCT"
+  },
+  {
+    "country": "Сент-Китс и Невис",
+    "capital": "Бастер",
+    "cca3": "KNA"
+  },
+  {
+    "country": "Сент-Люсия",
+    "capital": "Кастри",
+    "cca3": "LCA"
+  },
+  {
+    "country": "Сингапур",
+    "capital": "Сингапур",
+    "cca3": "SGP"
+  },
+  {
+    "country": "Синт-Мартен",
+    "capital": "Филипсбург",
+    "cca3": "SXM"
+  },
+  {
+    "country": "Сирия",
+    "capital": "Дамаск",
+    "cca3": "SYR"
+  },
+  {
+    "country": "Словакия",
+    "capital": "Братислава",
+    "cca3": "SVK"
+  },
+  {
+    "country": "Словения",
+    "capital": "Любляна",
+    "cca3": "SVN"
+  },
+  {
+    "country": "Соломоновы Острова",
+    "capital": "Хониара",
+    "cca3": "SLB"
+  },
+  {
+    "country": "Сомали",
+    "capital": "Могадишо",
+    "cca3": "SOM"
+  },
+  {
+    "country": "Судан",
+    "capital": "Хартум",
+    "cca3": "SDN"
+  },
+  {
+    "country": "Сьерра-Леоне",
+    "capital": "Фритаун",
+    "cca3": "SLE"
+  },
+  {
+    "country": "Таджикистан",
+    "capital": "Душанбе",
+    "cca3": "TJK"
+  },
+  {
+    "country": "Таиланд",
+    "capital": "Бангкок",
+    "cca3": "THA"
+  },
+  {
+    "country": "Танзания",
+    "capital": "Додома",
+    "cca3": "TZA"
+  },
+  {
+    "country": "Того",
+    "capital": "Ломе",
+    "cca3": "TGO"
+  },
+  {
+    "country": "Тринидад и Тобаго",
+    "capital": "Порт-оф-Спейн",
+    "cca3": "TTO"
+  },
+  {
+    "country": "Тувалу",
+    "capital": "Фунафути",
+    "cca3": "TUV"
+  },
+  {
+    "country": "Тунис",
+    "capital": "Тунис",
+    "cca3": "TUN"
+  },
+  {
+    "country": "Туркменистан",
+    "capital": "Ашхабад",
+    "cca3": "TKM"
+  },
+  {
+    "country": "Турция",
+    "capital": "Анкара",
+    "cca3": "TUR"
+  },
+  {
+    "country": "Уганда",
+    "capital": "Кампала",
+    "cca3": "UGA"
+  },
+  {
+    "country": "Узбекистан",
+    "capital": "Ташкент",
+    "cca3": "UZB"
+  },
+  {
+    "country": "Уругвай",
+    "capital": "Монтевидео",
+    "cca3": "URY"
+  },
+  {
+    "country": "Федеративные Штаты Микронезии",
+    "capital": "Паликир",
+    "cca3": "FSM"
+  },
+  {
+    "country": "Фиджи",
+    "capital": "Сува",
+    "cca3": "FJI"
+  },
+  {
+    "country": "Филиппины",
+    "capital": "Манила",
+    "cca3": "PHL"
+  },
+  {
+    "country": "Финляндия",
+    "capital": "Хельсинки",
+    "cca3": "FIN"
+  },
+  {
+    "country": "Франция",
+    "capital": "Париж",
+    "cca3": "FRA"
+  },
+  {
+    "country": "Хорватия",
+    "capital": "Загреб",
+    "cca3": "HRV"
+  },
+  {
+    "country": "Центральноафриканская Республика",
+    "capital": "Банги",
+    "cca3": "CAF"
+  },
+  {
+    "country": "Чад",
+    "capital": "Нджамена",
+    "cca3": "TCD"
+  },
+  {
+    "country": "Черногория",
+    "capital": "Подгорица",
+    "cca3": "MNE"
+  },
+  {
+    "country": "Чехия",
+    "capital": "Прага",
+    "cca3": "CZE"
+  },
+  {
+    "country": "Чили",
+    "capital": "Сантьяго",
+    "cca3": "CHL"
+  },
+  {
+    "country": "Швейцария",
+    "capital": "Берн",
+    "cca3": "CHE"
+  },
+  {
+    "country": "Швеция",
+    "capital": "Стокгольм",
+    "cca3": "SWE"
+  },
+  {
+    "country": "Шри-Ланка",
+    "capital": "Коломбо",
+    "cca3": "LKA"
+  },
+  {
+    "country": "Шри-Ланка",
+    "capital": "Шри-Джаяварденепура-Котте",
+    "cca3": "LKA"
+  },
+  {
+    "country": "Эквадор",
+    "capital": "Кито",
+    "cca3": "ECU"
+  },
+  {
+    "country": "Эритрея",
+    "capital": "Асмэра",
+    "cca3": "ERI"
+  },
+  {
+    "country": "Эстония",
+    "capital": "Таллин",
+    "cca3": "EST"
+  },
+  {
+    "country": "Эфиопия",
+    "capital": "Аддис-Абеба",
+    "cca3": "ETH"
+  },
+  {
+    "country": "ЮАР",
+    "capital": "Претория",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "ЮАР",
+    "capital": "Кейптаун",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "ЮАР",
+    "capital": "Блумфонтейн",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "Южный Судан",
+    "capital": "Джуба",
+    "cca3": "SSD"
+  },
+  {
+    "country": "Ямайка",
+    "capital": "Кингстон",
+    "cca3": "JAM"
+  },
+  {
+    "country": "Япония",
+    "capital": "Токио",
+    "cca3": "JPN"
+  }
+]

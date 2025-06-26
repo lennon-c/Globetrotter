@@ -1,0 +1,58 @@
+{
+  "0": {
+    "eng": "Africa",
+    "spa": "África",
+    "fra": "Afrique",
+    "deu": "Afrika",
+    "rus": "Африка"
+  },
+  "1": {
+    "eng": "Antarctica",
+    "spa": "Antártida",
+    "fra": "Antarctique",
+    "deu": "Antarktika",
+    "rus": "Антарктида"
+  },
+  "2": {
+    "eng": "Asia",
+    "spa": "Asia",
+    "fra": "Asie",
+    "deu": "Asien",
+    "rus": "Азия"
+  },
+  "5": {
+    "eng": "Oceania",
+    "spa": "Oceanía",
+    "fra": "Océanie",
+    "deu": "Ozeanien",
+    "rus": "Океания"
+  },
+  "3": {
+    "eng": "Europe",
+    "spa": "Europa",
+    "fra": "Europe",
+    "deu": "Europa",
+    "rus": "Европа"
+  },
+  "4": {
+    "eng": "North America",
+    "spa": "América del Norte",
+    "fra": "Amérique du Nord",
+    "deu": "Nordamerika",
+    "rus": "Северная Америка"
+  },
+  "6": {
+    "eng": "South America",
+    "spa": "América del Sur",
+    "fra": "Amérique du Sud",
+    "deu": "Südamerika",
+    "rus": "Южная Америка"
+  },
+  "all": {
+    "eng": "All",
+    "spa": "Todos",
+    "fra": "Tous",
+    "deu": "Alle",
+    "rus": "Все"
+  }
+}

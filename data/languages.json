@@ -1,0 +1,37 @@
+{
+  "eng": {
+    "eng": "English",
+    "spa": "Inglés",
+    "fra": "Anglais",
+    "deu": "Englisch",
+    "rus": "Английский"
+  },
+  "spa": {
+    "eng": "Spanish",
+    "spa": "Español",
+    "fra": "Espagnol",
+    "deu": "Spanisch",
+    "rus": "Испанский"
+  },
+  "fra": {
+    "eng": "French",
+    "spa": "Francés",
+    "fra": "Français",
+    "deu": "Französisch",
+    "rus": "Французский"
+  },
+  "deu": {
+    "eng": "German",
+    "spa": "Alemán",
+    "fra": "Allemand",
+    "deu": "Deutsch",
+    "rus": "Немецкий"
+  },
+  "rus": {
+    "eng": "Russian",
+    "spa": "Ruso",
+    "fra": "Russe",
+    "deu": "Russisch",
+    "rus": "Русский"
+  }
+}

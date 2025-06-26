@@ -1,0 +1,16 @@
+{
+  "true": {
+    "eng": ["Well done", "Terrific", "Fantastic", "Great job", "Excellent", "You nailed it"],
+    "spa": ["Bien hecho", "Estupendo", "Fantástico", "Gran trabajo", "Excelente", "Lo lograste"],
+    "fra": ["Bien joué", "Formidable", "Fantastique", "Bon travail", "Excellent", "Tu as réussi"],
+    "deu": ["Gut gemacht", "Großartig", "Fantastisch", "Tolle Arbeit", "Ausgezeichnet", "Du hast es geschafft"],
+    "rus": ["Молодец", "Отлично", "Фантастика", "Хорошая работа", "Превосходно", "Ты справился"]
+  },
+  "false": {
+    "eng": ["Wrong", "Try again", "Incorrect", "Not quite", "Oops, mistake", "Give it another shot"],
+    "spa": ["Incorrecto", "Inténtalo de nuevo", "Equivocado", "No del todo", "Uy, error", "Intenta otra vez"],
+    "fra": ["Faux", "Réessaie", "Incorrect", "Pas tout à fait", "Oups, une erreur", "Essaie encore"],
+    "deu": ["Falsch", "Versuch es nochmal", "Nicht korrekt", "Nicht ganz", "Hoppla, ein Fehler", "Probier's noch einmal"],
+    "rus": ["Неправильно", "Попробуй снова", "Ошибка", "Не совсем так", "Упс, ошибка", "Попробуй ещё раз"]
+  }
+}

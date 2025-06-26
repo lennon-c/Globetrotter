@@ -1,0 +1,952 @@
+[
+  {
+    "country": "Q16112782",
+    "capital": "",
+    "cca3": ""
+  },
+  {
+    "country": "Afghanistan",
+    "capital": "Kaboul",
+    "cca3": "AFG"
+  },
+  {
+    "country": "Afrique du Sud",
+    "capital": "Pretoria",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "Afrique du Sud",
+    "capital": "Le Cap",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "Afrique du Sud",
+    "capital": "Bloemfontein",
+    "cca3": "ZAF"
+  },
+  {
+    "country": "Albanie",
+    "capital": "Tirana",
+    "cca3": "ALB"
+  },
+  {
+    "country": "Algérie",
+    "capital": "Alger",
+    "cca3": "DZA"
+  },
+  {
+    "country": "Allemagne",
+    "capital": "Berlin",
+    "cca3": "DEU"
+  },
+  {
+    "country": "Andorre",
+    "capital": "Andorre-la-Vieille",
+    "cca3": "AND"
+  },
+  {
+    "country": "Angola",
+    "capital": "Luanda",
+    "cca3": "AGO"
+  },
+  {
+    "country": "Antigua-et-Barbuda",
+    "capital": "Saint John's",
+    "cca3": "ATG"
+  },
+  {
+    "country": "Arabie saoudite",
+    "capital": "Riyad",
+    "cca3": "SAU"
+  },
+  {
+    "country": "Argentine",
+    "capital": "Buenos Aires",
+    "cca3": "ARG"
+  },
+  {
+    "country": "Arménie",
+    "capital": "Erevan",
+    "cca3": "ARM"
+  },
+  {
+    "country": "Aruba",
+    "capital": "Oranjestad",
+    "cca3": "ABW"
+  },
+  {
+    "country": "Australie",
+    "capital": "Canberra",
+    "cca3": "AUS"
+  },
+  {
+    "country": "Autriche",
+    "capital": "Vienne",
+    "cca3": "AUT"
+  },
+  {
+    "country": "Azerbaïdjan",
+    "capital": "Bakou",
+    "cca3": "AZE"
+  },
+  {
+    "country": "Bahamas",
+    "capital": "Nassau",
+    "cca3": "BHS"
+  },
+  {
+    "country": "Bahreïn",
+    "capital": "Manama",
+    "cca3": "BHR"
+  },
+  {
+    "country": "Bangladesh",
+    "capital": "Dacca",
+    "cca3": "BGD"
+  },
+  {
+    "country": "Belgique",
+    "capital": "Bruxelles",
+    "cca3": "BEL"
+  },
+  {
+    "country": "Bhoutan",
+    "capital": "Thimphou",
+    "cca3": "BTN"
+  },
+  {
+    "country": "Birmanie",
+    "capital": "Naypyidaw",
+    "cca3": "MMR"
+  },
+  {
+    "country": "Biélorussie",
+    "capital": "Minsk",
+    "cca3": "BLR"
+  },
+  {
+    "country": "Bolivie",
+    "capital": "La Paz",
+    "cca3": "BOL"
+  },
+  {
+    "country": "Bolivie",
+    "capital": "Sucre",
+    "cca3": "BOL"
+  },
+  {
+    "country": "Bosnie-Herzégovine",
+    "capital": "Sarajevo",
+    "cca3": "BIH"
+  },
+  {
+    "country": "Botswana",
+    "capital": "Gaborone",
+    "cca3": "BWA"
+  },
+  {
+    "country": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "cca3": "BRN"
+  },
+  {
+    "country": "Brésil",
+    "capital": "Brasilia",
+    "cca3": "BRA"
+  },
+  {
+    "country": "Bulgarie",
+    "capital": "Sofia",
+    "cca3": "BGR"
+  },
+  {
+    "country": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "cca3": "BFA"
+  },
+  {
+    "country": "Burundi",
+    "capital": "Gitega",
+    "cca3": "BDI"
+  },
+  {
+    "country": "Bénin",
+    "capital": "Porto-Novo",
+    "cca3": "BEN"
+  },
+  {
+    "country": "Cambodge",
+    "capital": "Phnom Penh",
+    "cca3": "KHM"
+  },
+  {
+    "country": "Cameroun",
+    "capital": "Yaoundé",
+    "cca3": "CMR"
+  },
+  {
+    "country": "Canada",
+    "capital": "Ottawa",
+    "cca3": "CAN"
+  },
+  {
+    "country": "Cap-Vert",
+    "capital": "Praia",
+    "cca3": "CPV"
+  },
+  {
+    "country": "Chili",
+    "capital": "Santiago",
+    "cca3": "CHL"
+  },
+  {
+    "country": "Chinland",
+    "capital": "",
+    "cca3": ""
+  },
+  {
+    "country": "Chypre",
+    "capital": "Nicosie",
+    "cca3": "CYP"
+  },
+  {
+    "country": "Colombie",
+    "capital": "Bogota",
+    "cca3": "COL"
+  },
+  {
+    "country": "Comores",
+    "capital": "Moroni",
+    "cca3": "COM"
+  },
+  {
+    "country": "Corée du Nord",
+    "capital": "Pyongyang",
+    "cca3": "PRK"
+  },
+  {
+    "country": "Corée du Sud",
+    "capital": "Séoul",
+    "cca3": "KOR"
+  },
+  {
+    "country": "Costa Rica",
+    "capital": "San José",
+    "cca3": "CRI"
+  },
+  {
+    "country": "Croatie",
+    "capital": "Zagreb",
+    "cca3": "HRV"
+  },
+  {
+    "country": "Cuba",
+    "capital": "La Havane",
+    "cca3": "CUB"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "cca3": "CIV"
+  },
+  {
+    "country": "Danemark",
+    "capital": "Copenhague",
+    "cca3": "DNK"
+  },
+  {
+    "country": "Djibouti",
+    "capital": "Djibouti",
+    "cca3": "DJI"
+  },
+  {
+    "country": "Dominique",
+    "capital": "Roseau",
+    "cca3": "DMA"
+  },
+  {
+    "country": "Espagne",
+    "capital": "Madrid",
+    "cca3": "ESP"
+  },
+  {
+    "country": "Estonie",
+    "capital": "Tallinn",
+    "cca3": "EST"
+  },
+  {
+    "country": "Fidji",
+    "capital": "Suva",
+    "cca3": "FJI"
+  },
+  {
+    "country": "Finlande",
+    "capital": "Helsinki",
+    "cca3": "FIN"
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "cca3": "FRA"
+  },
+  {
+    "country": "Gabon",
+    "capital": "Libreville",
+    "cca3": "GAB"
+  },
+  {
+    "country": "Gambie",
+    "capital": "Banjul",
+    "cca3": "GMB"
+  },
+  {
+    "country": "Ghana",
+    "capital": "Accra",
+    "cca3": "GHA"
+  },
+  {
+    "country": "Grenade",
+    "capital": "Saint-Georges",
+    "cca3": "GRD"
+  },
+  {
+    "country": "Grèce",
+    "capital": "Athènes",
+    "cca3": "GRC"
+  },
+  {
+    "country": "Guatemala",
+    "capital": "Guatemala",
+    "cca3": "GTM"
+  },
+  {
+    "country": "Guinée",
+    "capital": "Conakry",
+    "cca3": "GIN"
+  },
+  {
+    "country": "Guyana",
+    "capital": "Georgetown",
+    "cca3": "GUY"
+  },
+  {
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
+    "cca3": "HND"
+  },
+  {
+    "country": "Hongrie",
+    "capital": "Budapest",
+    "cca3": "HUN"
+  },
+  {
+    "country": "Inde",
+    "capital": "New Delhi",
+    "cca3": "IND"
+  },
+  {
+    "country": "Indonésie",
+    "capital": "Jakarta",
+    "cca3": "IDN"
+  },
+  {
+    "country": "Irak",
+    "capital": "Bagdad",
+    "cca3": "IRQ"
+  },
+  {
+    "country": "Iran",
+    "capital": "Téhéran",
+    "cca3": "IRN"
+  },
+  {
+    "country": "Irlande",
+    "capital": "Dublin",
+    "cca3": "IRL"
+  },
+  {
+    "country": "Islande",
+    "capital": "Reykjavik",
+    "cca3": "ISL"
+  },
+  {
+    "country": "Israël",
+    "capital": "Jérusalem",
+    "cca3": "ISR"
+  },
+  {
+    "country": "Italie",
+    "capital": "Rome",
+    "cca3": "ITA"
+  },
+  {
+    "country": "Jamaïque",
+    "capital": "Kingston",
+    "cca3": "JAM"
+  },
+  {
+    "country": "Japon",
+    "capital": "Tokyo",
+    "cca3": "JPN"
+  },
+  {
+    "country": "Jordanie",
+    "capital": "Amman",
+    "cca3": "JOR"
+  },
+  {
+    "country": "Kazakhstan",
+    "capital": "Astana",
+    "cca3": "KAZ"
+  },
+  {
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "cca3": "KEN"
+  },
+  {
+    "country": "Kirghizistan",
+    "capital": "Bichkek",
+    "cca3": "KGZ"
+  },
+  {
+    "country": "Kosovo",
+    "capital": "Pristina",
+    "cca3": ""
+  },
+  {
+    "country": "Laos",
+    "capital": "Vientiane",
+    "cca3": "LAO"
+  },
+  {
+    "country": "Lesotho",
+    "capital": "Maseru",
+    "cca3": "LSO"
+  },
+  {
+    "country": "Lettonie",
+    "capital": "Riga",
+    "cca3": "LVA"
+  },
+  {
+    "country": "Liban",
+    "capital": "Beyrouth",
+    "cca3": "LBN"
+  },
+  {
+    "country": "Liberia",
+    "capital": "Monrovia",
+    "cca3": "LBR"
+  },
+  {
+    "country": "Libye",
+    "capital": "Tripoli",
+    "cca3": "LBY"
+  },
+  {
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
+    "cca3": "LIE"
+  },
+  {
+    "country": "Lituanie",
+    "capital": "Vilnius",
+    "cca3": "LTU"
+  },
+  {
+    "country": "Luxembourg",
+    "capital": "Luxembourg",
+    "cca3": "LUX"
+  },
+  {
+    "country": "Macédoine du Nord",
+    "capital": "Skopje",
+    "cca3": "MKD"
+  },
+  {
+    "country": "Malaisie",
+    "capital": "Kuala Lumpur",
+    "cca3": "MYS"
+  },
+  {
+    "country": "Malawi",
+    "capital": "Lilongwe",
+    "cca3": "MWI"
+  },
+  {
+    "country": "Maldives",
+    "capital": "Malé",
+    "cca3": "MDV"
+  },
+  {
+    "country": "Mali",
+    "capital": "Bamako",
+    "cca3": "MLI"
+  },
+  {
+    "country": "Malte",
+    "capital": "La Valette",
+    "cca3": "MLT"
+  },
+  {
+    "country": "Maroc",
+    "capital": "Rabat",
+    "cca3": "MAR"
+  },
+  {
+    "country": "Maurice",
+    "capital": "Port-Louis",
+    "cca3": "MUS"
+  },
+  {
+    "country": "Mauritanie",
+    "capital": "Nouakchott",
+    "cca3": "MRT"
+  },
+  {
+    "country": "Mexique",
+    "capital": "Mexico",
+    "cca3": "MEX"
+  },
+  {
+    "country": "Mongolie",
+    "capital": "Oulan-Bator",
+    "cca3": "MNG"
+  },
+  {
+    "country": "Monténégro",
+    "capital": "Podgorica",
+    "cca3": "MNE"
+  },
+  {
+    "country": "Namibie",
+    "capital": "Windhoek",
+    "cca3": "NAM"
+  },
+  {
+    "country": "Nauru",
+    "capital": "Yaren",
+    "cca3": "NRU"
+  },
+  {
+    "country": "Nicaragua",
+    "capital": "Managua",
+    "cca3": "NIC"
+  },
+  {
+    "country": "Niger",
+    "capital": "Niamey",
+    "cca3": "NER"
+  },
+  {
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "cca3": "NGA"
+  },
+  {
+    "country": "Niue",
+    "capital": "Alofi",
+    "cca3": "NIU"
+  },
+  {
+    "country": "Norvège",
+    "capital": "Oslo",
+    "cca3": "NOR"
+  },
+  {
+    "country": "Nouvelle-Zélande",
+    "capital": "Wellington",
+    "cca3": "NZL"
+  },
+  {
+    "country": "Népal",
+    "capital": "Katmandou",
+    "cca3": "NPL"
+  },
+  {
+    "country": "Oman",
+    "capital": "Mascate",
+    "cca3": "OMN"
+  },
+  {
+    "country": "Ouganda",
+    "capital": "Kampala",
+    "cca3": "UGA"
+  },
+  {
+    "country": "Ouzbékistan",
+    "capital": "Tachkent",
+    "cca3": "UZB"
+  },
+  {
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "cca3": "PAK"
+  },
+  {
+    "country": "Palaos",
+    "capital": "Ngerulmud",
+    "cca3": "PLW"
+  },
+  {
+    "country": "Papouasie-Nouvelle-Guinée",
+    "capital": "Port Moresby",
+    "cca3": "PNG"
+  },
+  {
+    "country": "Paraguay",
+    "capital": "Asuncion",
+    "cca3": "PRY"
+  },
+  {
+    "country": "Pays-Bas",
+    "capital": "Amsterdam",
+    "cca3": ""
+  },
+  {
+    "country": "Philippines",
+    "capital": "Manille",
+    "cca3": "PHL"
+  },
+  {
+    "country": "Pologne",
+    "capital": "Varsovie",
+    "cca3": "POL"
+  },
+  {
+    "country": "Portugal",
+    "capital": "Lisbonne",
+    "cca3": "PRT"
+  },
+  {
+    "country": "Qatar",
+    "capital": "Doha",
+    "cca3": "QAT"
+  },
+  {
+    "country": "Roumanie",
+    "capital": "Bucarest",
+    "cca3": "ROU"
+  },
+  {
+    "country": "Royaume des Pays-Bas",
+    "capital": "Amsterdam",
+    "cca3": "NLD"
+  },
+  {
+    "country": "Royaume du Danemark",
+    "capital": "Copenhague",
+    "cca3": ""
+  },
+  {
+    "country": "Royaume-Uni",
+    "capital": "Londres",
+    "cca3": "GBR"
+  },
+  {
+    "country": "Russie",
+    "capital": "Moscou",
+    "cca3": "RUS"
+  },
+  {
+    "country": "Rwanda",
+    "capital": "Kigali",
+    "cca3": "RWA"
+  },
+  {
+    "country": "République centrafricaine",
+    "capital": "Bangui",
+    "cca3": "CAF"
+  },
+  {
+    "country": "République dominicaine",
+    "capital": "Saint-Domingue",
+    "cca3": "DOM"
+  },
+  {
+    "country": "République du Congo",
+    "capital": "Brazzaville",
+    "cca3": "COG"
+  },
+  {
+    "country": "République démocratique du Congo",
+    "capital": "Kinshasa",
+    "cca3": "COD"
+  },
+  {
+    "country": "Saint-Christophe-et-Niévès",
+    "capital": "Basseterre",
+    "cca3": "KNA"
+  },
+  {
+    "country": "Saint-Martin",
+    "capital": "Philipsburg",
+    "cca3": "SXM"
+  },
+  {
+    "country": "Saint-Vincent-et-les-Grenadines",
+    "capital": "Kingstown",
+    "cca3": "VCT"
+  },
+  {
+    "country": "Sainte-Lucie",
+    "capital": "Castries",
+    "cca3": "LCA"
+  },
+  {
+    "country": "Salvador",
+    "capital": "San Salvador",
+    "cca3": "SLV"
+  },
+  {
+    "country": "Samoa",
+    "capital": "Apia",
+    "cca3": "WSM"
+  },
+  {
+    "country": "Sao Tomé-et-Principe",
+    "capital": "São Tomé",
+    "cca3": "STP"
+  },
+  {
+    "country": "Seychelles",
+    "capital": "Victoria",
+    "cca3": "SYC"
+  },
+  {
+    "country": "Sierra Leone",
+    "capital": "Freetown",
+    "cca3": "SLE"
+  },
+  {
+    "country": "Singapour",
+    "capital": "Singapour",
+    "cca3": "SGP"
+  },
+  {
+    "country": "Slovaquie",
+    "capital": "Bratislava",
+    "cca3": "SVK"
+  },
+  {
+    "country": "Slovénie",
+    "capital": "Ljubljana",
+    "cca3": "SVN"
+  },
+  {
+    "country": "Somalie",
+    "capital": "Mogadiscio",
+    "cca3": "SOM"
+  },
+  {
+    "country": "Soudan",
+    "capital": "Khartoum",
+    "cca3": "SDN"
+  },
+  {
+    "country": "Soudan du Sud",
+    "capital": "Djouba",
+    "cca3": "SSD"
+  },
+  {
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "cca3": "LKA"
+  },
+  {
+    "country": "Sri Lanka",
+    "capital": "Sri Jayawardenapura",
+    "cca3": "LKA"
+  },
+  {
+    "country": "Suisse",
+    "capital": "Berne",
+    "cca3": "CHE"
+  },
+  {
+    "country": "Suède",
+    "capital": "Stockholm",
+    "cca3": "SWE"
+  },
+  {
+    "country": "Syrie",
+    "capital": "Damas",
+    "cca3": "SYR"
+  },
+  {
+    "country": "Sénégal",
+    "capital": "Dakar",
+    "cca3": "SEN"
+  },
+  {
+    "country": "Tadjikistan",
+    "capital": "Douchanbé",
+    "cca3": "TJK"
+  },
+  {
+    "country": "Tanzanie",
+    "capital": "Dodoma",
+    "cca3": "TZA"
+  },
+  {
+    "country": "Taïwan",
+    "capital": "Taipei",
+    "cca3": "TWN"
+  },
+  {
+    "country": "Tchad",
+    "capital": "N'Djaména",
+    "cca3": "TCD"
+  },
+  {
+    "country": "Tchéquie",
+    "capital": "Prague",
+    "cca3": "CZE"
+  },
+  {
+    "country": "Thaïlande",
+    "capital": "Bangkok",
+    "cca3": "THA"
+  },
+  {
+    "country": "Timor oriental",
+    "capital": "Dili",
+    "cca3": "TLS"
+  },
+  {
+    "country": "Togo",
+    "capital": "Lomé",
+    "cca3": "TGO"
+  },
+  {
+    "country": "Trinité-et-Tobago",
+    "capital": "Port-d'Espagne",
+    "cca3": "TTO"
+  },
+  {
+    "country": "Tunisie",
+    "capital": "Tunis",
+    "cca3": "TUN"
+  },
+  {
+    "country": "Turkménistan",
+    "capital": "Achgabat",
+    "cca3": "TKM"
+  },
+  {
+    "country": "Turquie",
+    "capital": "Ankara",
+    "cca3": "TUR"
+  },
+  {
+    "country": "Tuvalu",
+    "capital": "Funafuti",
+    "cca3": "TUV"
+  },
+  {
+    "country": "Uruguay",
+    "capital": "Montevideo",
+    "cca3": "URY"
+  },
+  {
+    "country": "Vanuatu",
+    "capital": "Port-Vila",
+    "cca3": "VUT"
+  },
+  {
+    "country": "Vatican",
+    "capital": "",
+    "cca3": "VAT"
+  },
+  {
+    "country": "Venezuela",
+    "capital": "Caracas",
+    "cca3": "VEN"
+  },
+  {
+    "country": "Viêt Nam",
+    "capital": "Hanoï",
+    "cca3": "VNM"
+  },
+  {
+    "country": "Yémen",
+    "capital": "Sanaa",
+    "cca3": "YEM"
+  },
+  {
+    "country": "Yémen",
+    "capital": "Aden",
+    "cca3": "YEM"
+  },
+  {
+    "country": "Zambie",
+    "capital": "Lusaka",
+    "cca3": "ZMB"
+  },
+  {
+    "country": "Zimbabwe",
+    "capital": "Harare",
+    "cca3": "ZWE"
+  },
+  {
+    "country": "république populaire de Chine",
+    "capital": "Pékin",
+    "cca3": "CHN"
+  },
+  {
+    "country": "Égypte",
+    "capital": "Le Caire",
+    "cca3": "EGY"
+  },
+  {
+    "country": "Émirats arabes unis",
+    "capital": "Abou Dabi",
+    "cca3": "ARE"
+  },
+  {
+    "country": "Équateur",
+    "capital": "Quito",
+    "cca3": "ECU"
+  },
+  {
+    "country": "Érythrée",
+    "capital": "Asmara",
+    "cca3": "ERI"
+  },
+  {
+    "country": "État de Palestine",
+    "capital": "Jérusalem",
+    "cca3": "PSE"
+  },
+  {
+    "country": "État de Palestine",
+    "capital": "Ramallah",
+    "cca3": "PSE"
+  },
+  {
+    "country": "États fédérés de Micronésie",
+    "capital": "Palikir",
+    "cca3": "FSM"
+  },
+  {
+    "country": "États-Unis",
+    "capital": "Washington",
+    "cca3": "USA"
+  },
+  {
+    "country": "Éthiopie",
+    "capital": "Addis-Abeba",
+    "cca3": "ETH"
+  },
+  {
+    "country": "Îles Cook",
+    "capital": "Avarua",
+    "cca3": "COK"
+  },
+  {
+    "country": "Îles Salomon",
+    "capital": "Honiara",
+    "cca3": "SLB"
+  }
+]
